@@ -9,6 +9,7 @@ checksum = "4785bdd1c96b2a846b2bd7cc02e86b6b3dbf14e7e53446c4f54c92a361040822"
 [[package]]
 name = "functions"
 version = "0.1.0"
+source = "git+https://github.com/WhySyntax/functions#5e864e07d7257469915959bc4bc8ab283ae6002e"
 
 [[package]]
 name = "getrandom"
